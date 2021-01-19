@@ -1,0 +1,5 @@
+model_loc:
+  - ./model
+
+vector_headers:
+  - ./vector_headers.txt
